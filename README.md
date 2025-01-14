@@ -17,13 +17,11 @@ necessary to have a properly licensed open source project.
 
 ## Hardware Setup
 
-![Hardware setup](docs/images/hw-setup.png)
-Instrumentation:
+Supported hardware (NI Dynamic Signal Acquisition devices with Pure Tone support):
+- PXIe-4467
+- PXIe-4468
 
-- NI Dynamic Signal Acquisition device with Pure Tone support (PXIe-4467 | PXIe-4468)
-
-Tested hardware setup:
-
+Tested hardware:
 - PXIe-4468
 
 ## Software Installation

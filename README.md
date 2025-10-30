@@ -6,8 +6,17 @@ certificate of origin, and a pull request template. This provides everything
 necessary to have a properly licensed open source project.
 
 ## Projects
+### Acquisition
+- Dynamic Signal Acquisition (Active)
+
+### Generation
+- Single Tone Generation (Active)
 - Pure Tone Generation (Active)
-- Dynamic Signal Acquisition (Acknowledged)
+
+### Stimulus-Response
+- Single Tone - Gain and Distortion (Active)
+- Pure Tone - Gain and Distortion (Active)
+- Frequency Sweep - Gain, Phase, Distortion (Active)
 - Frequency Response (Acknowledged)
 
 ## Using this Repository

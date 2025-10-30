@@ -29,7 +29,7 @@ necessary to have a properly licensed open source project.
 
 ## Hardware Setup
 
-Supported DSA hardware platforms
+Supported DSA hardware platforms:
 - PXI and PXIe
 - USB
 - cDAQ

@@ -14,6 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="OneShot-SingleTone UI.lvlib" Type="Library" URL="../OneShot-SingleTone UI/OneShot-SingleTone UI.lvlib"/>
 		<Item Name="OneShot-SingleTone.lvlib" Type="Library" URL="../OneShot-SingleTone/OneShot-SingleTone.lvlib"/>
+		<Item Name="Post-Build Action.vi" Type="VI" URL="../OneShot-SingleTone UI/Post-Build Action.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -311,6 +312,7 @@
 				<Item Name="gRPC-servicer-release.lvlib" Type="Library" URL="/&lt;vilib&gt;/gRPC/LabVIEW gRPC Servicer/gRPC-servicer-release.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="I128 Timestamp.ctl" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/I128 Timestamp.ctl"/>
+				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LV Datatypes.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/LV Datatypes.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
@@ -357,6 +359,7 @@
 				<Item Name="OAT Error Information.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/Order Analysis/Misc/OAT Error Information.vi"/>
 				<Item Name="OAT Position Info.ctl" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/Order Analysis/Misc/OAT Position Info.ctl"/>
 				<Item Name="OAT Resample Filter Prototype.ctl" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Controls/OAT Resample Filter Prototype.ctl"/>
+				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="Release Waiting Procs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Release Waiting Procs.vi"/>
 				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 				<Item Name="RemoveNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/RemoveNamedRendezvousPrefix.vi"/>
@@ -934,6 +937,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">../OneShot-SingleTone/BuiltUI</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D52AA27C-9F19-45CF-9700-9201A030DE87}</Property>
 				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
@@ -947,7 +951,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5A7B4CE0-1EF5-47BE-BF9A-D689BA5AA33D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{734969EC-FB73-45FD-A126-BA2CB1EC3D50}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/OneShot-SingleTone UI.lvlib</Property>

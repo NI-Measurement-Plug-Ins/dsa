@@ -6,9 +6,21 @@ certificate of origin, and a pull request template. This provides everything
 necessary to have a properly licensed open source project.
 
 ## Projects
-- Pure Tone Generation (Active)
-- Dynamic Signal Acquisition (Acknowledged)
-- Frequency Response (Acknowledged)
+### Acquisition
+- Dynamic Signal Acquisition (Active)
+- Averaged Transfer Functions (Proposed)
+
+### Generation
+- Single Tone (Active)
+- Pure Tone (Active)
+- Broadband (Acknowledged)
+- Multitone (Acknowledged)
+
+### Stimulus-Response
+- Single Tone - Gain and Distortion (Active)
+- Pure Tone - Gain and Distortion (Active)
+- Frequency Sweep - Gain, Phase, Distortion (Active)
+- Broadband - Averaged Frequency Response and Coherence (Acknowledged)
 
 ## Using this Repository
 
@@ -17,12 +29,25 @@ necessary to have a properly licensed open source project.
 
 ## Hardware Setup
 
-Supported hardware (NI Dynamic Signal Acquisition devices with Pure Tone support):
+Supported DSA hardware platforms:
+- PXI and PXIe
+- USB
+- cDAQ
+- FieldDAQ
+
+Supported hardware for Pure Tone plugins (NI Dynamic Signal Acquisition devices with Pure Tone support):
 - PXIe-4467
 - PXIe-4468
 
 Tested hardware:
-- PXIe-4468
+- PXIe-4468 (with and without channel expansion)
+- PXIe-4464 (with and without channel expansion)
+- PXI-4461 (with and without channel expansion)
+- USB-4431
+- cDAQ
+   - NI 9260 (analog output)
+   - NI 9234 (analog input)
+   - NI 9232 (analog input)
 
 ## Software Installation
 

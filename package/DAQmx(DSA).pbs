@@ -1,0 +1,1668 @@
+﻿<Solution xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/NationalInstruments.PackageBuilder.Engine">
+    <Name>audio-dac</Name>
+    <SourceItems>
+        <SourceItem z:Id="i2">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\BuiltUI\Dynamic Signal Acquisition (Interactive) UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i3">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i4">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i5">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i6">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i7">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i8">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i9">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i10">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i11">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i12">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i13">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\BuiltUI\OneShot-PureTone UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i14">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i15">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i16">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i17">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i18">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i19">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\OneShot-PureTone.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i20">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\OneShot-PureTone.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i21">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\OneShot-PureTone.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i22">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\OneShot-PureTone.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i23">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\BuiltUI\OneShot-SingleTone UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i24">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i25">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i26">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i27">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i28">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i29">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i30">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\OneShot-SingleTone.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i31">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\OneShot-SingleTone.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i32">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\OneShot-SingleTone.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i33">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\OneShot-SingleTone.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i34">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\BuiltUI\Pure Tone Generation (N Ch) UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i35">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i36">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i37">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i38">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i39">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i40">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i41">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i42">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i43">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i44">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\BuiltUI\Frequency Response (Discrete Sweep) UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i45">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i46">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i47">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\FrequencyResponse(DiscreteSweep).aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i48">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\FrequencyResponse(DiscreteSweep).exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i49">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\FrequencyResponse(DiscreteSweep).ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i50">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\FrequencyResponse(DiscreteSweep).serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i51">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i52">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i53">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i54">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i55">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\BuiltUI\Tone Generation UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i56">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i57">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i58">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i59">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i60">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i61">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i62">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\ToneGeneration.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i63">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\ToneGeneration.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i64">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\ToneGeneration.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i65">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\ToneGeneration.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i66">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i2" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i67">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i9" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i68">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i10" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i69">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i11" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i70">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i12" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i71">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i13" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i72">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i14" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i73">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i15" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i74">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i16" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i75">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i17" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i76">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i18" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i77">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i23" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i78">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i26" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i79">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i27" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i80">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i28" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i81">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i29" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i82">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i34" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i83">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i35" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i84">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i36" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i85">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i37" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i86">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i38" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i87">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i39" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i88">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i44" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i89">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i51" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i90">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i52" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i91">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i53" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i92">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i54" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i93">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i55" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i94">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i58" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i95">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i59" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i96">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i60" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i97">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i61" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i98">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i3" />
+                <SourceItem z:Ref="i4" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i99">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i24" />
+                <SourceItem z:Ref="i25" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i100">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i45" />
+                <SourceItem z:Ref="i46" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i101">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i56" />
+                <SourceItem z:Ref="i57" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i102">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i67" />
+                <SourceItem z:Ref="i68" />
+                <SourceItem z:Ref="i69" />
+                <SourceItem z:Ref="i70" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i103">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i73" />
+                <SourceItem z:Ref="i74" />
+                <SourceItem z:Ref="i75" />
+                <SourceItem z:Ref="i76" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i104">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i78" />
+                <SourceItem z:Ref="i79" />
+                <SourceItem z:Ref="i80" />
+                <SourceItem z:Ref="i81" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i105">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i84" />
+                <SourceItem z:Ref="i85" />
+                <SourceItem z:Ref="i86" />
+                <SourceItem z:Ref="i87" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i106">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i89" />
+                <SourceItem z:Ref="i90" />
+                <SourceItem z:Ref="i91" />
+                <SourceItem z:Ref="i92" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i107">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i94" />
+                <SourceItem z:Ref="i95" />
+                <SourceItem z:Ref="i96" />
+                <SourceItem z:Ref="i97" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i108">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\DSA\Dynamic Signal Acquisition (Interactive)</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i5" />
+                <SourceItem z:Ref="i6" />
+                <SourceItem z:Ref="i7" />
+                <SourceItem z:Ref="i8" />
+                <SourceItem z:Ref="i66" />
+                <SourceItem z:Ref="i98" />
+                <SourceItem z:Ref="i102" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i109">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Pure Tone\OneShot-PureTone</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i19" />
+                <SourceItem z:Ref="i20" />
+                <SourceItem z:Ref="i21" />
+                <SourceItem z:Ref="i22" />
+                <SourceItem z:Ref="i71" />
+                <SourceItem z:Ref="i72" />
+                <SourceItem z:Ref="i103" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i110">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\One Shot Single Tone\OneShot-SingleTone</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i30" />
+                <SourceItem z:Ref="i31" />
+                <SourceItem z:Ref="i32" />
+                <SourceItem z:Ref="i33" />
+                <SourceItem z:Ref="i77" />
+                <SourceItem z:Ref="i99" />
+                <SourceItem z:Ref="i104" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i111">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Pure Tone Generation\Pure Tone Generation (N Ch)</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i40" />
+                <SourceItem z:Ref="i41" />
+                <SourceItem z:Ref="i42" />
+                <SourceItem z:Ref="i43" />
+                <SourceItem z:Ref="i82" />
+                <SourceItem z:Ref="i83" />
+                <SourceItem z:Ref="i105" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i112">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Sweep\FreqResp</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i47" />
+                <SourceItem z:Ref="i48" />
+                <SourceItem z:Ref="i49" />
+                <SourceItem z:Ref="i50" />
+                <SourceItem z:Ref="i88" />
+                <SourceItem z:Ref="i100" />
+                <SourceItem z:Ref="i106" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i113">
+            <PluginConfigurationOptions />
+            <RelativePath>..\source\builds\Tone Generation (Stereo)\Tone Generation</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i62" />
+                <SourceItem z:Ref="i63" />
+                <SourceItem z:Ref="i64" />
+                <SourceItem z:Ref="i65" />
+                <SourceItem z:Ref="i93" />
+                <SourceItem z:Ref="i101" />
+                <SourceItem z:Ref="i107" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+    </SourceItems>
+    <InputSourceItems>
+        <SourceItem z:Ref="i108" />
+        <SourceItem z:Ref="i109" />
+        <SourceItem z:Ref="i110" />
+        <SourceItem z:Ref="i111" />
+        <SourceItem z:Ref="i113" />
+        <SourceItem z:Ref="i112" />
+    </InputSourceItems>
+    <Distributions>
+        <Distribution z:Id="i114" i:type="Package">
+            <DistributionItems>
+                <DistributionItem z:Id="i115" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
+                    <Name>National Instruments</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i116" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink</DestinationRelativePath>
+                    <Name>MeasurementLink</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i117" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services</DestinationRelativePath>
+                    <Name>Services</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i118" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)</DestinationRelativePath>
+                    <Name>Dynamic Signal Acquisition (DAQmx)</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i119" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)</DestinationRelativePath>
+                    <Name>Dynamic Signal Acquisition (Interactive)</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i120" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).aliases</DestinationRelativePath>
+                    <Name>DynamicSignalAcquisition(Interactive).aliases</Name>
+                    <SourceItem z:Ref="i5" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i121" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).exe</DestinationRelativePath>
+                    <Name>DynamicSignalAcquisition(Interactive).exe</Name>
+                    <SourceItem z:Ref="i6" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i122" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).ini</DestinationRelativePath>
+                    <Name>DynamicSignalAcquisition(Interactive).ini</Name>
+                    <SourceItem z:Ref="i7" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i123" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\DynamicSignalAcquisition(Interactive).serviceconfig</DestinationRelativePath>
+                    <Name>DynamicSignalAcquisition(Interactive).serviceconfig</Name>
+                    <SourceItem z:Ref="i8" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i124" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i125" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\BuiltUI\Dynamic Signal Acquisition (Interactive) UI.lvlibp</DestinationRelativePath>
+                    <Name>Dynamic Signal Acquisition (Interactive) UI.lvlibp</Name>
+                    <SourceItem z:Ref="i2" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i126" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i127" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i3" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i128" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i4" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i129" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i130" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i131" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i9" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i132" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i133" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i10" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i134" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i135" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i11" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i136" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i137" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Acquisition (DAQmx)\Dynamic Signal Acquisition (Interactive)\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i12" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i138" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)</DestinationRelativePath>
+                    <Name>Dynamic Signal Generation (DAQmx)</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i139" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)</DestinationRelativePath>
+                    <Name>Pure Tone Generation (N Ch)</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i140" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).aliases</DestinationRelativePath>
+                    <Name>PureToneGeneration(NCh).aliases</Name>
+                    <SourceItem z:Ref="i40" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i141" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).exe</DestinationRelativePath>
+                    <Name>PureToneGeneration(NCh).exe</Name>
+                    <SourceItem z:Ref="i41" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i142" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).ini</DestinationRelativePath>
+                    <Name>PureToneGeneration(NCh).ini</Name>
+                    <SourceItem z:Ref="i42" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i143" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\PureToneGeneration(NCh).serviceconfig</DestinationRelativePath>
+                    <Name>PureToneGeneration(NCh).serviceconfig</Name>
+                    <SourceItem z:Ref="i43" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i144" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i145" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\BuiltUI\Pure Tone Generation (N Ch) UI.lvlibp</DestinationRelativePath>
+                    <Name>Pure Tone Generation (N Ch) UI.lvlibp</Name>
+                    <SourceItem z:Ref="i34" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i146" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i147" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i35" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i148" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i149" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i150" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i36" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i151" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i152" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i37" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i153" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i154" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i38" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i155" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i156" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Pure Tone Generation (N Ch)\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i39" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i157" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation</DestinationRelativePath>
+                    <Name>Tone Generation</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i158" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\ToneGeneration.aliases</DestinationRelativePath>
+                    <Name>ToneGeneration.aliases</Name>
+                    <SourceItem z:Ref="i62" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i159" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\ToneGeneration.exe</DestinationRelativePath>
+                    <Name>ToneGeneration.exe</Name>
+                    <SourceItem z:Ref="i63" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i160" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\ToneGeneration.ini</DestinationRelativePath>
+                    <Name>ToneGeneration.ini</Name>
+                    <SourceItem z:Ref="i64" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i161" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\ToneGeneration.serviceconfig</DestinationRelativePath>
+                    <Name>ToneGeneration.serviceconfig</Name>
+                    <SourceItem z:Ref="i65" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i162" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i163" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\BuiltUI\Tone Generation UI.lvlibp</DestinationRelativePath>
+                    <Name>Tone Generation UI.lvlibp</Name>
+                    <SourceItem z:Ref="i55" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i164" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i165" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i56" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i166" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i57" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i167" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i168" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i169" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i58" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i170" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i171" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i59" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i172" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i173" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i60" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i174" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i175" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Dynamic Signal Generation (DAQmx)\Tone Generation\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i61" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i176" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements</DestinationRelativePath>
+                    <Name>Stimulus-Response Measurements</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i177" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone</DestinationRelativePath>
+                    <Name>OneShot-PureTone</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i178" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\OneShot-PureTone.aliases</DestinationRelativePath>
+                    <Name>OneShot-PureTone.aliases</Name>
+                    <SourceItem z:Ref="i19" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i179" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\OneShot-PureTone.exe</DestinationRelativePath>
+                    <Name>OneShot-PureTone.exe</Name>
+                    <SourceItem z:Ref="i20" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i180" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\OneShot-PureTone.ini</DestinationRelativePath>
+                    <Name>OneShot-PureTone.ini</Name>
+                    <SourceItem z:Ref="i21" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i181" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\OneShot-PureTone.serviceconfig</DestinationRelativePath>
+                    <Name>OneShot-PureTone.serviceconfig</Name>
+                    <SourceItem z:Ref="i22" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i182" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i183" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\BuiltUI\OneShot-PureTone UI.lvlibp</DestinationRelativePath>
+                    <Name>OneShot-PureTone UI.lvlibp</Name>
+                    <SourceItem z:Ref="i13" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i184" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i185" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i14" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i186" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i187" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i188" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i15" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i189" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i190" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i16" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i191" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i192" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i17" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i193" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i194" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-PureTone\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i18" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i195" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone</DestinationRelativePath>
+                    <Name>OneShot-SingleTone</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i196" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\OneShot-SingleTone.aliases</DestinationRelativePath>
+                    <Name>OneShot-SingleTone.aliases</Name>
+                    <SourceItem z:Ref="i30" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i197" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\OneShot-SingleTone.exe</DestinationRelativePath>
+                    <Name>OneShot-SingleTone.exe</Name>
+                    <SourceItem z:Ref="i31" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i198" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\OneShot-SingleTone.ini</DestinationRelativePath>
+                    <Name>OneShot-SingleTone.ini</Name>
+                    <SourceItem z:Ref="i32" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i199" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\OneShot-SingleTone.serviceconfig</DestinationRelativePath>
+                    <Name>OneShot-SingleTone.serviceconfig</Name>
+                    <SourceItem z:Ref="i33" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i200" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i201" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\BuiltUI\OneShot-SingleTone UI.lvlibp</DestinationRelativePath>
+                    <Name>OneShot-SingleTone UI.lvlibp</Name>
+                    <SourceItem z:Ref="i23" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i202" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i203" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i24" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i204" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i25" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i205" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i206" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i207" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i26" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i208" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i209" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i27" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i210" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i211" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i28" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i212" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i213" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\OneShot-SingleTone\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i29" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i214" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp</DestinationRelativePath>
+                    <Name>FreqResp</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i215" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\FrequencyResponse(DiscreteSweep).aliases</DestinationRelativePath>
+                    <Name>FrequencyResponse(DiscreteSweep).aliases</Name>
+                    <SourceItem z:Ref="i47" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i216" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\FrequencyResponse(DiscreteSweep).exe</DestinationRelativePath>
+                    <Name>FrequencyResponse(DiscreteSweep).exe</Name>
+                    <SourceItem z:Ref="i48" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i217" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\FrequencyResponse(DiscreteSweep).ini</DestinationRelativePath>
+                    <Name>FrequencyResponse(DiscreteSweep).ini</Name>
+                    <SourceItem z:Ref="i49" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i218" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\FrequencyResponse(DiscreteSweep).serviceconfig</DestinationRelativePath>
+                    <Name>FrequencyResponse(DiscreteSweep).serviceconfig</Name>
+                    <SourceItem z:Ref="i50" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i219" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i220" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\BuiltUI\Frequency Response (Discrete Sweep) UI.lvlibp</DestinationRelativePath>
+                    <Name>Frequency Response (Discrete Sweep) UI.lvlibp</Name>
+                    <SourceItem z:Ref="i44" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i221" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i222" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i45" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i223" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i46" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i224" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i225" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i226" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i51" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i227" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i228" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i52" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i229" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i230" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i53" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i231" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i232" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Stimulus-Response Measurements\FreqResp\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i54" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+            </DistributionItems>
+            <Name>DSA (DAQmx)</Name>
+            <OutputDirectory>Packages</OutputDirectory>
+            <PluginConfigurationOptions />
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <Architecture>windows_x64</Architecture>
+            <AutoIncrementVersion>Build</AutoIncrementVersion>
+            <BuildStatus z:Id="i233">
+                <FileName />
+                <Version>none</Version>
+            </BuildStatus>
+            <CompanyName>MyCompany</CompanyName>
+            <CustomExecutes />
+            <Description>DSA, DSG, and Stimulus-Response plugins to use with NI DSA devices</Description>
+            <DisplayName>DSA (DAQmx)</DisplayName>
+            <FileName>community-dsa_1.0.0.0_windows_x64.nipkg</FileName>
+            <Homepage>https://github.com/NI-Measurement-Plug-Ins/dsa</Homepage>
+            <MaintainerEmail>email@mycompany.com</MaintainerEmail>
+            <MaintainerName>Github Community</MaintainerName>
+            <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+            <PackageName>community-dsa</PackageName>
+            <PackageRelationships>
+                <PackageRelationship z:Id="i234">
+                    <Constraint>LaterOrEqual</Constraint>
+                    <DisplayName>LabVIEW Runtime (64-bit)</DisplayName>
+                    <PackageName>ni-labview-2024-runtime-engine</PackageName>
+                    <Relation>Depends</Relation>
+                    <Version>24.3.4.49159-0+f7</Version>
+                    <VersionType>AutoUpdate</VersionType>
+                </PackageRelationship>
+            </PackageRelationships>
+            <ProductName>MyProduct</ProductName>
+            <Section>Add-Ons</Section>
+            <StoreProduct>true</StoreProduct>
+            <Synopsis>NI InstrumentStudio measurement plugins for DAQmx DSA</Synopsis>
+            <Version>1.0.0.0</Version>
+        </Distribution>
+    </Distributions>
+    <Feeds />
+    <DistributionGroups>
+        <DistributionGroup z:Id="i235">
+            <Distributions>
+                <Distribution z:Ref="i114" />
+            </Distributions>
+            <Name>Distribution Group</Name>
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <StageDirectory>ProcessingStage</StageDirectory>
+        </DistributionGroup>
+    </DistributionGroups>
+    <TestStandMode>true</TestStandMode>
+    <PluginConfigurationOptions>
+        <ConfigurationOption z:Id="i236">
+            <Definition z:Id="i237">
+                <Description i:nil="true" />
+                <Name>TestStand Options</Name>
+            </Definition>
+            <HasDefaultValues>true</HasDefaultValues>
+            <Value z:Id="i238" i:type="DialogConfigurationOptionValue">
+                <Values>
+                    <ConfigurationOptionValue z:Id="i239" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i240" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i241" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i242" i:type="StringConfigurationOptionValue">
+                        <Value />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i243" i:type="StringConfigurationOptionValue">
+                        <Value>SupportVIs</Value>
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i244" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i245" i:type="StringConfigurationOptionValue">
+                        <Value />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i246" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i247" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i248" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i249" i:type="BooleanConfigurationOptionValue">
+                        <Value>true</Value>
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i250" i:type="BooleanConfigurationOptionValue">
+                        <Value>true</Value>
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i251" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i252" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i253" i:type="PathConfigurationOptionValue">
+                        <RelativePath />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i254" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i255" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i256" i:type="StringConfigurationOptionValue">
+                        <Value>[BootVolume]</Value>
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i257" i:type="StringConfigurationOptionValue">
+                        <Value />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i258" i:type="StringConfigurationOptionValue">
+                        <Value />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i259" i:type="StringConfigurationOptionValue">
+                        <Value />
+                    </ConfigurationOptionValue>
+                    <ConfigurationOptionValue z:Id="i260" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i261" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i262" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i263" i:type="BooleanConfigurationOptionValue" />
+                </Values>
+            </Value>
+        </ConfigurationOption>
+    </PluginConfigurationOptions>
+</Solution>

@@ -896,27 +896,26 @@
 				<Property Name="App_INI_GUID" Type="Str">{D96DAD1F-D4E7-4ED3-9BFA-E8A8D7560D9C}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{E5661371-4401-4FF1-BD93-C69B3FC9E7A3}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Frequency Response (Discrete Sweep)</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Frequency Response (Discrete Sweep)</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/Sweep/FreqResp</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response (Discrete Sweep).lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BA3CA3F6-1FBA-428C-AE08-B77D72AA2987}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FrequencyResponse(DiscreteSweep).exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Frequency Response (Discrete Sweep)/FrequencyResponse(DiscreteSweep).exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/Sweep/FreqResp/FrequencyResponse(DiscreteSweep).exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Frequency Response (Discrete Sweep)/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/Sweep/FreqResp/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{526F0004-7568-4A28-B12D-378B8792D9BE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{14F652AF-0657-4F39-86A1-4FE27934696D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response (Discrete Sweep).lvlib/Get Service Descriptor.vi</Property>
@@ -969,7 +968,6 @@
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Frequency Response (Discrete Sweep) UI" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{4293E49E-9CC0-4E90-9F2B-1A0B85A485DF}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Frequency Response (Discrete Sweep) UI</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -978,7 +976,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{2A84D65D-3BE2-4904-A1FC-0E2762AC7E24}</Property>
-				<Property Name="Bld_version.build" Type="Int">30</Property>
+				<Property Name="Bld_version.build" Type="Int">33</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response (Discrete Sweep) UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Frequency Response (Discrete Sweep)/BuiltUI/Frequency Response (Discrete Sweep) UI.lvlibp</Property>
@@ -990,7 +988,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{526F0004-7568-4A28-B12D-378B8792D9BE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{14F652AF-0657-4F39-86A1-4FE27934696D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response (Discrete Sweep) UI.lvlib</Property>

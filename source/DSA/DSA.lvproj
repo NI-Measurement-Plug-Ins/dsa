@@ -122,7 +122,6 @@
 				<Item Name="DAQmx Save Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/storage.llb/DAQmx Save Task.vi"/>
 				<Item Name="DAQmx Self Calibrate.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/calibration/calibrationInfo.llb/DAQmx Self Calibrate.vi"/>
 				<Item Name="DAQmx Start Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
-				<Item Name="DAQmx Stop Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Stop Task.vi"/>
 				<Item Name="DAQmx Timing (Sample Clock).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/timing.llb/DAQmx Timing (Sample Clock).vi"/>
 				<Item Name="DAQmx Unflatten Channel String.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/DAQmx Unflatten Channel String.vi"/>
 				<Item Name="Data.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/Data/Data.lvclass"/>
@@ -536,7 +535,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{0E492626-6E71-49CB-8641-3F9692839DA2}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{F5D11A26-975D-4CFF-BFE8-D6F61817252B}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Dynamic Signal Acquisition (Interactive)</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -547,7 +545,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Dynamic Signal Acquisition (Interactive).lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{837D00FC-C68C-4FC6-B8CA-72FC55D35D3D}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DynamicSignalAcquisition(Interactive).exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Dynamic Signal Acquisition (Interactive)/DynamicSignalAcquisition(Interactive).exe</Property>
@@ -556,7 +554,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Dynamic Signal Acquisition (Interactive)/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{FA98A565-5B53-4544-91E0-F85E4656D1F1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98807DCA-965A-4039-B676-7981094B92C6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dynamic Signal Acquisition (Interactive).lvlib/Get Service Descriptor.vi</Property>

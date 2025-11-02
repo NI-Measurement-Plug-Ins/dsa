@@ -488,7 +488,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{3099A96D-AA57-44BE-A74E-C4B911C63838}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{952D0602-0252-4F3A-93D3-A277A09C1A65}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">OneShot-PureTone</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -499,7 +498,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/OneShot-PureTone.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C1958B1E-9A0B-4F58-B4BD-C20EB9353D6F}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OneShot-PureTone.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/OneShot-PureTone/OneShot-PureTone.exe</Property>
@@ -508,7 +507,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/OneShot-PureTone/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9A3865A8-2FAE-49EA-B62D-54CE8805EE90}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{58513B39-ADBB-4949-8CA6-DB7B224C29CF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/OneShot-PureTone.lvlib/Get Service Descriptor.vi</Property>
@@ -561,7 +560,6 @@
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="OneShot-PureTone UI" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B0429FB9-FB1C-4ED0-B7FD-5A19D9B59D9B}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">OneShot-PureTone UI</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -571,7 +569,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D52AA27C-9F19-45CF-9700-9201A030DE87}</Property>
-				<Property Name="Bld_version.build" Type="Int">24</Property>
+				<Property Name="Bld_version.build" Type="Int">26</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OneShot-PureTone UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../OneShot-PureTone/BuiltUI/OneShot-PureTone UI.lvlibp</Property>
@@ -583,7 +581,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{91A8363B-E59F-469B-A4C3-77B4D2144BC9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{58513B39-ADBB-4949-8CA6-DB7B224C29CF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/OneShot-PureTone UI.lvlib</Property>

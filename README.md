@@ -7,19 +7,19 @@ necessary to have a properly licensed open source project.
 
 ## Projects
 ### Acquisition
-- Dynamic Signal Acquisition (Active)
+- Dynamic Signal Acquisition (Prereleased)
 - Averaged Transfer Functions (Proposed)
 
 ### Generation
-- Single Tone (Active)
-- Pure Tone (Active)
+- Single Tone (Released)
+- Pure Tone (Released)
 - Broadband (Acknowledged)
 - Multitone (Acknowledged)
 
 ### Stimulus-Response
-- Single Tone - Gain and Distortion (Active)
-- Pure Tone - Gain and Distortion (Active)
-- Frequency Sweep - Gain, Phase, Distortion (Active)
+- Single Tone - Gain and Distortion (Released)
+- Pure Tone - Gain and Distortion (Released)
+- Frequency Sweep - Gain, Phase, Distortion (Released)
 - Broadband - Averaged Frequency Response and Coherence (Acknowledged)
 
 ## Using this Repository

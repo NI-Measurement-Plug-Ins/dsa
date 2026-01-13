@@ -9,6 +9,7 @@ necessary to have a properly licensed open source project.
 ### Acquisition
 - Dynamic Signal Acquisition (Prereleased)
 - Averaged Transfer Functions (Proposed)
+- Analog Tachometer Processing (Implemented)
 
 ### Generation
 - Single Tone (Released)
@@ -20,7 +21,7 @@ necessary to have a properly licensed open source project.
 - Single Tone - Gain and Distortion (Released)
 - Pure Tone - Gain and Distortion (Released)
 - Frequency Sweep - Gain, Phase, Distortion (Released)
-- Broadband - Averaged Frequency Response and Coherence (Acknowledged)
+- Broadband - Averaged Frequency Response and Coherence (Implemented)
 
 ## Using this Repository
 

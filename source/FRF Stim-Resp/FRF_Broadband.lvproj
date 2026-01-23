@@ -310,6 +310,7 @@
 				<Item Name="gRPC-servicer-release.lvlib" Type="Library" URL="/&lt;vilib&gt;/gRPC/LabVIEW gRPC Servicer/gRPC-servicer-release.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="I128 Timestamp.ctl" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/I128 Timestamp.ctl"/>
+				<Item Name="Is Value Changed.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Is Value Changed.vim"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LV Datatypes.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/LV Datatypes.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
@@ -750,7 +751,6 @@
 				<Item Name="svfa_Locate Three Fingers (complex).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Locate Three Fingers (complex).vi"/>
 				<Item Name="svfa_Mag to Mag2.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Mag to Mag2.vi"/>
 				<Item Name="svfa_Modify Enhanced Spectrum Info (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Modify Enhanced Spectrum Info (Dual).vi"/>
-				<Item Name="svfa_No Average Array.vim" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_No Average Array.vim"/>
 				<Item Name="svfa_Peak Hold Array.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Peak Hold Array.vi"/>
 				<Item Name="svfa_Peak Rough Search Indices.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Peak Rough Search Indices.vi"/>
 				<Item Name="svfa_Peak to RMS to Peak2Peak.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Peak to RMS to Peak2Peak.vi"/>
@@ -840,7 +840,7 @@
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
 				<Item Name="Waveform Duration.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Waveform Duration.vi"/>
 				<Item Name="Waveforms (N Ch).lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/Waveforms (DBL)/Waveforms (N Ch).lvclass"/>
-				<Item Name="Waveforms with Cursors.xctl" Type="XControl" URL="/&lt;vilib&gt;/Addons/_XControls/Waveforms with Cursors/Waveforms with Cursors.xctl"/>
+				<Item Name="Waveforms with Cursors.xctl" Type="XControl" URL="/&lt;vilib&gt;/addons/_XControls/Waveforms with Cursors/Waveforms with Cursors.xctl"/>
 				<Item Name="WDT Get Final Time Value DBL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get Final Time Value DBL.vi"/>
 				<Item Name="WDT Get XY Value CDB.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get XY Value CDB.vi"/>
 				<Item Name="WDT Get XY Value CXT.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get XY Value CXT.vi"/>
@@ -966,7 +966,6 @@
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Averaged - Broadband UI" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{FC58DAE9-A67E-4B47-B823-DB2A5E1780FE}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Averaged - Broadband UI</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -975,7 +974,6 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{03F017C1-F2B9-49DD-AA3B-C48EC44014AF}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Averaged - Broadband UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Averaged - Broadband/BuiltUI/Averaged - Broadband UI.lvlibp</Property>
@@ -987,7 +985,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A20B86E1-CD9F-4A3B-99E7-B2E465C1CA05}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{38EA5D70-62A2-45AF-9027-C3DF22327567}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Averaged - Broadband UI.lvlib</Property>

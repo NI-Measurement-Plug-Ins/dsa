@@ -15,7 +15,11 @@ necessary to have a properly licensed open source project.
 - Single Tone (Released 1.0.0.6)
 - Pure Tone (Released 1.0.0.6)
 - Broadband (Released 1.1.0.2)
+   - Chirp (Acknowledged)
 - Multitone (Acknowledged)
+- Frequency Sweeps
+   - Continuous (slow chirp between start and stop) (Deferred)
+   - Discrete (Deferred)
 
 ### Stimulus-Response
 - Single Tone - Gain and Distortion (Released 1.0.0.6)
